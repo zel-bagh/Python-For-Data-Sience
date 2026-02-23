@@ -23,7 +23,7 @@ Run:
 python3.x source.py
 
 
-If you are on Linux run the executable: (An executable version is available upon request.)
+If you are on Linux run the executable:
 
     ./executable
 Make sure the Input file for ids 'Mortgages for Erwin.xlsx' is in the same directory as the executable.
